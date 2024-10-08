@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.3.5
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: vibhatha@gmail.com
+author_name: Vibhatha Abeykoon
+has_binder: true
+has_settings: false
+kind: frontend
+labextension_name: simplext2
+project_short_description: A JupyterLab extension for Python Package management.
+python_name: simplext2
+repository: https://github.com/vibhatha/simplext2
+test: true
+
